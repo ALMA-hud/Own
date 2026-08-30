@@ -12,5 +12,6 @@ It is extremely easy to write code in Own and to read code written in it
 
 
 To fully learn the Own programming language, you need to read the documentation:
+
 На Русском:
-own.ru.txt
+[own.ru.txt](own.ru.txt)
